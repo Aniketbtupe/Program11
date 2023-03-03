@@ -1,0 +1,10 @@
+package sr_developer;
+
+public class KIA_internal1 {
+	public static void main(String[] args) {
+		jr_developer.KIA_airbags obj = new jr_developer.KIA_airbags();
+		obj.deep();
+		
+	}
+
+}
