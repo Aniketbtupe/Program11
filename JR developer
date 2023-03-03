@@ -1,0 +1,8 @@
+package jr_developer;
+
+public class KIA_airbags {
+	public void deep() {
+		System.out.println("All KIA have an Airbags");
+	}
+
+}
